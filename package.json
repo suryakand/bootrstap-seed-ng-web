@@ -1,5 +1,5 @@
 {
-  "name": "econsult-ng-web",
+  "name": "bootrstap-seed-ng-web",
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
@@ -21,11 +21,16 @@
     "@angular/platform-browser": "^5.1.0",
     "@angular/platform-browser-dynamic": "^5.1.0",
     "@angular/router": "^5.1.0",
+    "bootstrap": "^4.0.0",
     "core-js": "^2.4.1",
+    "jquery": "^1.9.1",
+    "popper.js": "^1.14.1",
     "rxjs": "^5.5.6",
+    "tether": "^1.4.3",
     "zone.js": "^0.8.19"
   },
   "devDependencies": {
+    "@angular-devkit/core": "^0.4.8",
     "@angular/cli": "1.6.4",
     "@angular/compiler-cli": "^5.1.0",
     "@angular/language-service": "^5.1.0",

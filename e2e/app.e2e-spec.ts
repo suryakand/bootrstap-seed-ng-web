@@ -1,6 +1,6 @@
 import { AppPage } from './app.po';
 
-describe('econsult-ng-web App', () => {
+describe('bootrstap-seed-ng-web App', () => {
   let page: AppPage;
 
   beforeEach(() => {
